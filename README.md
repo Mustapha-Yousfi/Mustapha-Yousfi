@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+<img src="https://github.com/Mustapha-Yousfi/Mustapha-Yousfi/blob/main/lyon_location.jpg" width=300 align=right>
+
+
+
 - 🔭 I’ve developing application in C/C++ (+20 years) and Java (5 years)
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: mustapha.yousfi@gmail.com
 
-My location
-![Location](lyon_location.jpg)
+___
+
 <!--
 **Mustapha-Yousfi/Mustapha-Yousfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
