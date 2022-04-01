@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: mustapha.yousfi@gmail.com
 
+My location
+![Location](lyon_location.jpg)
 <!--
 **Mustapha-Yousfi/Mustapha-Yousfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
